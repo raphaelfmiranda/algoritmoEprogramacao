@@ -1,0 +1,15 @@
+Exercícios
+
+Matrizes
+
+1. Faça um programa que leia uma matriz 3x3 e mostre a matriz formatada.
+2. Faça um programa em Linguagem C que leia uma matriz 6 x 6, conte e escreva quantos valores maiores que 10 ela possui.
+3. Faça um programa que receba uma matriz 4x4 e mostre essa matriz com todos os elementos ao quadrado.
+4. Crie um programa que recebe uma matriz de inteiros positivos e substitui seus elementos de valor ímpar por 1 e os pares por 0.
+5. Crie um programa que receba valores do usuário para preencher uma matriz, e em seguida, exiba a soma dos valores dela e a soma dos valores da primeira diagonal,ou seja, diagonal principal.
+6. Crie um programa que receba valores do usuário para preencher uma matriz. Some os elementos pares e ímpares dessa matriz e escreva o resultado na tela.
+7. Crie um programa que receba os valores do usuário para preencher duas matrizes 3 X 3. Crie uma matriz resultado que deverá ser preenchida com a subtração das matrizes preenchidas anteriormente.
+8. Crie um programa que receba valores do usuário para preenchimento de uma matriz 5 x 5. No final mostre os seguintes dados:
+* Soma dos elementos da diagonal principal da matriz
+* Subtração dos elementos acima da diagonal principal
+* Multiplicação dos elementos abaixo da diagonal principal

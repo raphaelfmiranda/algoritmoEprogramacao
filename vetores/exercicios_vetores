@@ -1,0 +1,16 @@
+Exercícios
+
+VETORES
+
+1. Crie um programa que leia 6 valores inteiros e, em seguida, mostre na tela os valores lidos.
+2. Leia um vetor de 10 posições. Contar e escrever quantos valores pares ele possui.
+3. Faça um programa que receba do usuário um vetor com 10 posições. Em seguida, deverá ser impresso o maior e o menor elemento do vetor.
+4. Escreva um programa que leia 10 números inteiros e os armazene em um vetor. Imprima o vetor, o maior elemento e a posição que ele se encontra.
+5. Crie um programa que leia 6 valores inteiros e, em seguida, mostre na tela os valores lidos na ordem inversa.
+6. Faça um programa para ler a nota da prova de 15 alunos e armazene num vetor, calcule e imprima a média geral.
+7. Faça um programa que preencha um vetor com 10 números reais, calcule e mostre a quantidade de números negativos e a soma dos números positivos desse vetor.
+8. Leia um vetor de 10 posições e atribua valor 0 para todos os elementos que possuírem valores negativos.
+9. Faça um programa que leia dois vetores de 10 posições e calcule outro vetor contendo a soma das posições desses dois vetores recebidos anteriormente.
+10. Faça um programa onde o usuário preencha um vetor de 10 posições e altere as extremidades dos arrays para o valor 0. Imprima o array alterado.
+11. Faça um programa onde o usuário preencha um vetor de 20 posições e multiplique cada um dos itens do array pelo seu quadrado. Imprima o array alterado.
+12. Faça um programa onde o usuário preencha um vetor de 5 posições e, posteriormente, crie outro array de mesmo tamanho com os triplo do elementos do array preenchido.
